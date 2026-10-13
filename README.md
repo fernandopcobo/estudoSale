@@ -28,7 +28,7 @@ Cada matéria tem uma pasta com:
 
 - `README.md` — índice da matéria: o que cada arquivo contém, links de videoaulas e documentos externos, e a lista de atividades com prazos e enunciados.
 - `material-de-apoio/` — slides, apostilas, códigos e projetos de exemplo, com os nomes originais dos arquivos.
-- `atividades/` — enunciados de listas e trabalhos e os arquivos de apoio publicados na seção de atividades.
+- `atividades/` — enunciados de listas e trabalhos e os arquivos de apoio publicados na seção de atividades. Quando há enunciados em PDF ou DOCX, o `ENUNCIADOS.md` traz a transcrição em texto.
 - `geral/` — arquivos publicados na seção geral do curso (quando existem).
 
 Entram aqui apenas os materiais publicados pelos professores. Entregas, notas, questões de questionários e conversas de fórum e chat ficam de fora.

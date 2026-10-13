@@ -32,6 +32,8 @@ Até aqui o conteúdo publicado cobre Ladder com sinais discretos, contadores e 
 
 ## Atividades e avaliações
 
+Enunciados transcritos em texto, com as figuras descritas: [atividades/ENUNCIADOS.md](atividades/ENUNCIADOS.md).
+
 | Tipo | Atividade | Abertura | Prazo | O que pede | Anexo |
 |------|-----------|----------|-------|------------|-------|
 | Tarefa | [24/08/2026 - Lista de exercícios linguagem Ladder - sinais discretos.](https://missaosalesiana.mrooms.net/mod/assign/view.php?id=256424) | 24 ago. 2026, 19:05 | 31 ago. 2026, 23:59 | Desenvolver os exercícios da lista em anexo. | [Exercicios 2026-08-24 - Entradas discretas.pdf](atividades/Exercicios%202026-08-24%20-%20Entradas%20discretas.pdf) |

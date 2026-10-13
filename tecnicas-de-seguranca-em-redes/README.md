@@ -41,6 +41,8 @@ Apostilas numeradas, uma por aula, que constroem passo a passo um laboratório v
 
 ## Atividades e avaliações
 
+Enunciados transcritos em texto, com as figuras descritas: [atividades/ENUNCIADOS.md](atividades/ENUNCIADOS.md).
+
 | Tipo | Atividade | Abertura | Prazo | O que pede | Anexo |
 |------|-----------|----------|-------|------------|-------|
 | Tarefa | [Atividade 1 - Wireshark](https://missaosalesiana.mrooms.net/mod/assign/view.php?id=258302) | 5 set. 2026, 23:59 | 30 set. 2026, 23:59 | A atividade traz os conceitos de protocolos de comunicação, protocolos de testes, camada OSI e a interceptação de informações e pacotes com o Wireshark. | [Atividade1 - WireShark.pdf](atividades/Atividade1%20-%20WireShark.pdf) |

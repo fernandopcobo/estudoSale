@@ -50,6 +50,8 @@ Os `.zip` são projetos completos (fonte `.pbas`, `.hex` compilado e simulação
 
 ## Atividades e avaliações
 
+Enunciados transcritos em texto, com as figuras descritas: [atividades/ENUNCIADOS.md](atividades/ENUNCIADOS.md).
+
 | Tipo | Atividade | Abertura | Prazo | O que pede | Anexo |
 |------|-----------|----------|-------|------------|-------|
 | Tarefa | [11/08/2026 - Controle por Comunicação Serial](https://missaosalesiana.mrooms.net/mod/assign/view.php?id=254046) | 11 ago. 2026, 19:05 | 18 ago. 2026, 20:45 | Desenvolver o projeto de comunicação serial de acordo com o documento em anexo. | [Exercicio 2026-08-11 - Comunicação entre microcontroladores.pdf](atividades/Exercicio%202026-08-11%20-%20Comunica%C3%A7%C3%A3o%20entre%20microcontroladores.pdf) |

@@ -35,9 +35,11 @@ Conteúdo publicado até aqui, na ordem das aulas:
 | [Exercicios_Controle_P_PI_PD_PID.pdf](atividades/Exercicios_Controle_P_PI_PD_PID.pdf) | 37 KB | Lista resolvida 1 de controle P, PI, PD e PID: erro estacionário, constante de tempo, polos de malha fechada, amortecimento e projeto PID por casamento de polinômio característico. 5 exercícios, 3 páginas. |
 | [Exercicios_Controle_P_PI_PD_PID_v2.pdf](atividades/Exercicios_Controle_P_PI_PD_PID_v2.pdf) | 36 KB | Lista resolvida 2 de controle P, PI, PD e PID: mesmos tipos de exercício da lista 1 com outros parâmetros. 3 páginas. |
 | [Lista_Exercicios_Controle_PID_Enunciados.pdf](atividades/Lista_Exercicios_Controle_PID_Enunciados.pdf) | 21 KB | Enunciados (5 exercícios): erro estacionário com P, efeito do ganho na constante de tempo, ação integral (PI), ação derivativa (PD) e alocação de polos com PID. 2 páginas. |
-| [lista-exercicios-estudante.docx](atividades/lista-exercicios-estudante.docx) | 32 KB | Enunciados (3 exercícios, com gabarito das matrizes ao final): massa-mola-amortecedor de 2ª ordem, sistema de 3ª ordem com saídas múltiplas e sistema de 2ª ordem com saída combinada. |
+| [lista-exercicios-estudante.docx](atividades/lista-exercicios-estudante.docx) | 32 KB | Enunciados (3 exercícios; o texto cita um gabarito ao final, mas o arquivo não o traz): massa-mola-amortecedor de 2ª ordem, sistema de 3ª ordem com saídas múltiplas e sistema de 2ª ordem com saída combinada. |
 
 ## Atividades e avaliações
+
+Enunciados transcritos em texto, com as figuras descritas: [atividades/ENUNCIADOS.md](atividades/ENUNCIADOS.md).
 
 | Tipo | Atividade | Abertura | Prazo | O que pede | Anexo |
 |------|-----------|----------|-------|------------|-------|

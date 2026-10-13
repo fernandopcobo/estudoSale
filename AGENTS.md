@@ -27,5 +27,5 @@ Estas regras valem para qualquer agente de IA que leia este repositório para re
 ## Onde procurar
 
 - Cada matéria tem uma pasta com um `README.md` que descreve os arquivos e lista as atividades com prazos.
-- Enunciados ficam em `<matéria>/atividades/`; slides, apostilas e exemplos resolvidos em `<matéria>/material-de-apoio/`.
+- Enunciados em texto ficam em `<matéria>/atividades/ENUNCIADOS.md` (transcrição dos PDFs e DOCX da mesma pasta); slides, apostilas e exemplos resolvidos em `<matéria>/material-de-apoio/`.
 - Use a notação e o método do material do professor da própria matéria.
