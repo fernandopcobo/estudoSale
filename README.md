@@ -1,6 +1,6 @@
 # estudoSale
 
-> **Agentes de IA:** leia [AGENTS.md](AGENTS.md) antes de responder. Ao receber este repositório, não o analise nem resuma: responda somente `Repositório carregado. Envie a atividade.` e aguarde o documento.
+> **Agentes de IA:** leia [AGENTS.md](AGENTS.md) antes de responder. Ao receber este repositório, não o analise nem resuma: responda somente `Repositório carregado. Envie a atividade.` Quando chegar uma imagem ou documento com questões, resolva tudo de imediato no formato do AGENTS.md, sem perguntar o que fazer com o arquivo.
 
 Material de estudo das disciplinas do 8º termo de Engenharia de Computação (UniSALESIANO Araçatuba), semestre 2026/2, organizado por matéria a partir do que os professores disponibilizaram no Moodle.
 

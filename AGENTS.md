@@ -2,12 +2,23 @@
 
 Estas regras valem para qualquer agente de IA que leia este repositório para responder perguntas ou resolver atividades.
 
-## Ao receber este repositório
+## Fluxo da conversa
+
+### 1. Quando eu enviar o link deste repositório
+
+Vale para qualquer mensagem que venha com o link, inclusive "analise o repositório" ou "somente analise".
 
 1. Leia o conteúdo em silêncio, como contexto de estudo (comece pelo `README.md` de cada matéria).
 2. **Não devolva análise, resumo, avaliação, tabela ou sugestões de melhoria sobre o repositório.** Não pergunte que tipo de análise eu quero.
 3. Responda somente: `Repositório carregado. Envie a atividade.`
-4. Aguarde o documento da atividade. Quando ele chegar, resolva seguindo as regras abaixo, usando o material da matéria correspondente como referência.
+
+### 2. Quando eu enviar uma imagem, PDF, DOCX ou texto com questões
+
+Vale mesmo que o arquivo venha sem nenhuma mensagem junto.
+
+1. O envio já é o pedido: **resolva todas as questões imediatamente**, seguindo as regras abaixo.
+2. **Não pergunte o que fazer com o arquivo** (corrigir, resolver ou transcrever). Não descreva o que recebeu. Não peça confirmação.
+3. Identifique a matéria pelo conteúdo e use o material correspondente deste repositório como referência.
 
 ## Como resolver
 
